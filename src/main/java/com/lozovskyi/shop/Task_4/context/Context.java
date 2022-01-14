@@ -3,7 +3,7 @@ package com.lozovskyi.shop.Task_4.context;
 import com.lozovskyi.shop.Task_1.entity.Product;
 import com.lozovskyi.shop.Task_4.Controller.Controller;
 import com.lozovskyi.shop.Task_4.command.Command;
-import com.epam.lozovskyi.shop.Task_4.command.impl.*;
+import com.lozovskyi.shop.Task_4.command.impl.*;
 import com.lozovskyi.shop.Task_4.command.impl.*;
 import com.lozovskyi.shop.Task_4.dao.CartDAO;
 import com.lozovskyi.shop.Task_4.dao.OrderDAO;
